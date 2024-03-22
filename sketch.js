@@ -115,7 +115,30 @@ createCanvas(900,800);
 
     Mwall9 = createSprite(440,200,150,20);
     Mwall9.shapeColor = "blue";
-    
+
+    Mwall10 = createSprite(440,500,180,20);
+    Mwall10.shapeColor = "blue";
+
+    Mwall11 = createSprite(380,375,60,20);
+    Mwall11.shapeColor = "blue";
+
+    Mwall12 = createSprite(500,375,60,20);
+    Mwall12.shapeColor = "blue";
+
+    Mwall13 = createSprite(450,580,170,20);
+    Mwall13.shapeColor = "blue";
+
+    Mwall14 = createSprite(200,650,90,20);
+    Mwall14.shapeColor = "blue";
+
+    Mwall15 = createSprite(715,650,90,20);
+    Mwall15.shapeColor = "blue";
+
+    Mwall16 = createSprite(50,700,100,20);
+    Mwall16.shapeColor = "blue";
+
+    Mwall16 = createSprite(850,700,110,20);
+    Mwall16.shapeColor = "blue";
 
 
     Mwallv1= createSprite(440, 60, 20, 80);
@@ -130,6 +153,26 @@ createCanvas(900,800);
     Mwallv4= createSprite(440,250,20,120);
     Mwallv4.shapeColor = "blue";
 
+    Mwallv5 = createSprite(360,440,20,110);
+    Mwallv5.shapeColor = "blue";
+
+    Mwallv6 = createSprite(520,440,20,110);
+    Mwallv6.shapeColor = "blue";
+
+    Mwallv7 = createSprite(750,550,20,60);
+    Mwallv7.shapeColor = "blue";
+
+    Mwallv8 = createSprite(160,550,20,60);
+    Mwallv8.shapeColor = "blue";
+
+    Mwallv9 = createSprite(450,640,20,100);
+    Mwallv9.shapeColor = "blue";
+
+    Mwallv10 = createSprite(300,750,20,70);
+    Mwallv10.shapeColor = "blue";
+
+    Mwallv11 = createSprite(600,750,20,70);
+    Mwallv11.shapeColor = "blue";
 
 
 }
